@@ -22,4 +22,4 @@ Step 6: (Mac Users) (Type) python credit_card_validator.py and press enter
 
 Step 7: Enter 16 digit credit card number without any spaces (i.e. 1234567891234567) then press enter
 
-### Must have python 3.6 installed ###
+### Must have python 3.7.3 installed ###
