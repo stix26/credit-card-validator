@@ -1,7 +1,8 @@
 # credit-card-validator
 The program will use an algorithm to check whether the card is valid or invalid
 
-**DIRECTIONS REVISED**
+DIRECTIONS REVISED
+
 Step 1 (Download Zip)
 
 Step 2: Open your (terminal or command line) and at the (bash$ line) or (cmd) type cd Downloads and press enter
