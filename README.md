@@ -11,7 +11,7 @@ Step 3: Type ls and press enter
 
 Step 4: Press command F (Mac users) and type credit. Highlight and copy the credit-card-validator-master download.
 
-Step 5: Type cd credit-card-validator-master and press enter
+Step 5: Type cd and paste(credit-card-validator-master) and press enter (i.e. cd credit-card-validator-master)
 
 Step 6: Type ls
 
